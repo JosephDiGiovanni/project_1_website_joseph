@@ -4,6 +4,12 @@ h1 {
   text-align: center;
   margin: auto;
 }
+h2 {
+  color: white;
+  font-family: Orbitron;
+  text-align: center;
+  margin: auto;
+}
 p {
   font-family: Roboto;
   color: white;
