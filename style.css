@@ -29,10 +29,10 @@ div {
 }
 body{
   background-image: url(http://feelgrafix.com/data_images/out/1/733288-amazing-nebula.jpg);
+  background-size: 1950px 1110px;
 }
 ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
     font-family: Orbitron;
 }
@@ -43,4 +43,10 @@ figcaption{
 #lefttoright{
   font-size: 10;
   font-family: Orbitron;
+}
+
+a {
+  color: white;
+  font-family: Orbitron;
+  font-size: 11;
 }
